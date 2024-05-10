@@ -7,3 +7,7 @@ if(err){
   console.log(data)
 }
 })
+// Also try with this
+//writeFile
+//appendFile
+//deletFile
