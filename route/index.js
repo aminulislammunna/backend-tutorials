@@ -1,3 +1,9 @@
+//npm init -y
+// npm i nodemon 
+// "start":'nodemon inde.js'
+
+
+
 const http = require('http');
 const fs = require('fs')
 const port = 3000;
