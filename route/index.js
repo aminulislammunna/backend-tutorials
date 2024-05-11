@@ -1,6 +1,6 @@
 //npm init -y
 // npm i nodemon 
-// "start":'nodemon inde.js'
+// "start":"nodemon index.js"
 
 
 
